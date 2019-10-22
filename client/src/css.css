@@ -1,0 +1,12 @@
+#hello {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+    background-image: url();
+}
+
+#clear {
+    clear: both;
+    position: relative;
+}
